@@ -1,13 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Broke HTML user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishupog&label=Profile%20views&color=0e75b6&style=flat" alt="vishupog" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vishubroked" target="blank"><img src="https://img.shields.io/twitter/follow/vishubroked?logo=twitter&style=for-the-badge" alt="vishubroked" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vishuk30" target="blank"><img src="https://img.shields.io/twitter/follow/vishubroked?logo=twitter&style=for-the-badge" alt="vishubroked" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishubroked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishubroked" height="30" width="40" /></a>
-<a href="https://instagram.com/vshoot.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vshoot.exe" height="30" width="40" /></a>
+<a href="https://twitter.com/vishuk30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishuk30" height="30" width="40" /></a>
+<a href="https://instagram.com/vis6u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vis6u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
